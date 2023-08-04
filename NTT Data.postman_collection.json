@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "51842359-f2fd-4423-b24b-2e4ae3807b5c",
+		"name": "NTT Data",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27684425"
+	},
+	"item": [
+		{
+			"name": "Añadir mascota",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar mascota",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar nombre y status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "búsqueda por status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
